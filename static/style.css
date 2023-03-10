@@ -1,0 +1,24 @@
+*{
+    background-color: #F1F1F1;
+}
+h1 {
+    text-align: center;
+}
+.mainFrame{
+    display: flex;
+    justify-content: center;
+}
+p, h4, h5{
+    text-align: center;
+}
+table{
+    align-content: center;
+}
+h4{
+    color: red;
+}
+.routes{
+    margin: 0 auto;
+    border: 2px solid black;
+    width: 150px;
+}
